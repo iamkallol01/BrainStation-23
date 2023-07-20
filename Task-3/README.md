@@ -21,4 +21,4 @@ Here we are covering only the Customer and Product microservices. Microservice a
 
 Implementation This use case will employ API-driven development, meaning we will first define the microservices API. It will then enable individual teams to work on the implementation without waiting for others. We’re going to apply the Swagger 2.0 REST API specification.
 
-System requirements: NodeJs Python MongoDB (Local or Atlas cluster); Docker; Kubernetes (kubectl CLI); An AWS Account; AWS CLI Version 2; Cache Service
+System requirements: NodeJs Python MongoDB (Local or Atlas cluster); Docker; Kubernetes (kubectl CLI); An AWS Account; AWS CLI Version 2 Cache Service
