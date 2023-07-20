@@ -55,4 +55,4 @@ For this ssh into the master node using "vagrant ssh kube-master-node" and run t
 
 This install all the necessary kubernetes objects for metric server. Now create some pods and wait for sometime to load the metric server. After a while run "kubectl top pods" to view the resource consumption of your pod and "kubectl top nodes" for node resource consumption.
 
-Thanks!
+Thanks!!!
