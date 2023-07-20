@@ -124,7 +124,7 @@
     become: false
 
   - name: Download Flannel pod network YML files
-    become: false
+    become: true
     command: wget https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel.yml
     ignore_errors: yes
 
